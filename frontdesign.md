@@ -80,7 +80,7 @@ App (根组件)
 |--------|------|------|
 | `Home` | `src/pages/Home.tsx` | 主页，整合所有子组件，管理数据状态，提供刷新机制 |
 | `History` | `src/pages/History.tsx` | 历史记录页，占位页面，显示"功能开发中" |
-| `Profile` | `src/pages/Profile.tsx` | 个人中心页，占位页面，显示"功能开发中" |
+| `Profile` | `src/pages/Profile.tsx` | 个人中心页，实现登录、用户信息展示、头像上传功能 |
 
 ### 2.2 业务组件 (Components)
 

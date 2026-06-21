@@ -106,7 +106,8 @@ gyq-00002-1/
 │   ├── types/                  # TypeScript类型定义目录
 │   │   └── index.ts            # 全局类型定义
 │   ├── utils/                  # 业务工具目录
-│   │   └── storage.ts          # localStorage存储工具
+│   │   ├── storage.ts          # localStorage存储工具
+│   │   └── auth.ts             # 用户认证工具
 │   ├── App.tsx                 # 应用根组件
 │   ├── index.css               # 全局样式（含Tailwind指令）
 │   └── main.tsx                # 应用入口文件

@@ -12,3 +12,13 @@ export interface CookingStats {
   todayCount: number
   totalCount: number
 }
+
+export interface User {
+  username: string
+  avatar?: string
+}
+
+export interface TestAccount {
+  username: string
+  password: string
+}
